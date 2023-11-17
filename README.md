@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 ### Recent DDL
 - [ ] 48题修复(11.20)
+- [ ] 41题补充C++ RFC
+- [ ] 40题回复审核
+- [ ] 40题基础实现
+- [ ] 39题调通并回复审核
+- [ ] 52题push一下审核
 
 ### Today's to-do list
-- [ ] 41题调通
+- [ ] 开始修复48题
