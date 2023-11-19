@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Recent DDL
+- [x] 修复48题
+- [ ] 41题回复审核
 - [ ] 41题补充C++ RFC
 - [ ] 40题回复审核
 - [ ] 40题基础实现
@@ -23,10 +25,14 @@ Here are some ideas to get you started:
 - [ ] 52题push一下审核
 
 ### This week's to-do list
+- Sunday
+  - [x] 修复48题
+  - [ ] 41题回复审核
+  - [ ] 41题补充C++ RFC
 - Monday
-
+  - [ ] 39题调通并回复审核
 - Tuesday
-
+  - [ ] 40题回复审核
 - Wednesday
 
 - Thursday
@@ -35,4 +41,3 @@ Here are some ideas to get you started:
 
 - Saturday
 
-- Sunday
