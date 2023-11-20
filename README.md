@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Recent DDL
-- [x] 修复48题
-- [ ] 41题回复审核
-- [ ] 41题补充C++ RFC
-- [x] 40题回复审核
+### TODO
 - [ ] 40题基础实现
-- [ ] 39题调通并回复审核
-- [ ] 52题push一下审核
+- [ ] 40题RFC补充重要函数接口
+- [ ] 52题push一下审核大大
 
-### This week's to-do list
+### DOING
 - Sunday
   - [x] 修复48题
   - [ ] 41题回复审核（50%）
@@ -44,3 +40,6 @@ Here are some ideas to get you started:
 
 - Saturday
 
+### DONE
+- [x] 修复48题
+- [x] 40题回复审核
