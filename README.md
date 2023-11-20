@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [x] 修复48题
 - [ ] 41题回复审核
 - [ ] 41题补充C++ RFC
-- [ ] 40题回复审核
+- [x] 40题回复审核
 - [ ] 40题基础实现
 - [ ] 39题调通并回复审核
 - [ ] 52题push一下审核
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   - [ ] 41题代码修改参数类型（50%）
   - [ ] 41题补充C++ RFC（0%）
 - Monday
+  - [x] 40题回复审核
   - [ ] 41题回复审核
   - [ ] 41题代码修改参数类型
 - Tuesday
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 - Wednesday
   - [ ] 39题调通并回复审核
 - Thursday
-  - [ ] 40题回复审核
+
 - Friday
 
 - Saturday
