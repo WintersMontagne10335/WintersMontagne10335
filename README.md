@@ -27,16 +27,18 @@ Here are some ideas to get you started:
 ### This week's to-do list
 - Sunday
   - [x] 修复48题
-  - [ ] 41题回复审核
-  - [ ] 41题补充C++ RFC
+  - [ ] 41题回复审核（50%）
+  - [ ] 41题代码修改参数类型（50%）
+  - [ ] 41题补充C++ RFC（0%）
 - Monday
-  - [ ] 39题调通并回复审核
+  - [ ] 41题回复审核
+  - [ ] 41题代码修改参数类型
 - Tuesday
-  - [ ] 40题回复审核
+  - [ ] 41题补充C++ RFC
 - Wednesday
-
+  - [ ] 39题调通并回复审核
 - Thursday
-
+  - [ ] 40题回复审核
 - Friday
 
 - Saturday
