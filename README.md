@@ -10,6 +10,7 @@
 - [ ] 41题修正.h文件
 - [ ] 41题修正.cu文件的OutputAt
 - [ ] 41题修正mu*.cc文件的Enforce
+- [ ] 40题精读论文，补充RFC
 
 ### DOING
 - Sunday
