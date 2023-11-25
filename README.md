@@ -11,6 +11,7 @@
   - [ ] 41题修正.cu文件的OutputAt
   - [ ] 41题修正mu*.cc文件的Enforce
   - [ ] 40题精读论文，补充RFC
+  - [ ] 41题修改测试用例
 
 - not urgent
   - [ ] 为 `Paddle` 添加二维线程配置
